@@ -1,20 +1,28 @@
 {
-    "cars": [
-      {
-        "id": 1,
-        "make": "Audi",
-        "model": "R8",
-        "year": "2021",
-        "image": "https://cdn.motor1.com/images/mgl/BqPZM/s3/2021-audi-r8-rwd-panther-edition.jpg",
-        "price": 183300
-      },
-      {
-        "id": 2,
-        "make": "Nissan",
-        "model": "GT-R35 Final Edition",
-        "year": "2022",
-        "image": "https://cdn.motor1.com/images/mgl/qNALJ/s1/nissan-gt-r50-by-italdesign.webp",
-        "price": 340000
-      }
-    ]
-  }
+  "cars": [
+    {
+      "id": 1,
+      "make": "Audi",
+      "model": "R8",
+      "year": "2021",
+      "image": "https://cdn.motor1.com/images/mgl/BqPZM/s3/2021-audi-r8-rwd-panther-edition.jpg",
+      "price": 183300
+    },
+    {
+      "id": 2,
+      "make": "Nissan",
+      "model": "GT-R35 Final Edition",
+      "year": "2022",
+      "image": "https://cdn.motor1.com/images/mgl/qNALJ/s1/nissan-gt-r50-by-italdesign.webp",
+      "price": 340000
+    },
+    {
+      "make": "toyota",
+      "model": "Supra",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtwi_iCr1lk9dRBvN-Ba995ilEuMHQnqKFoXcWP6SmSflAps91BEz880WjO5yGedLPVU&usqp=CAU",
+      "price": "43090",
+      "year": "2021",
+      "id": 3
+    }
+  ]
+}
